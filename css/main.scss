@@ -36,22 +36,22 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
+      //   "base",
         "layout",
         "syntax-highlighting"
 ;
 
-/* Variable styles I made here */
+/* ------------- Variable styles I made here ------------- */
 
 .promo{ /* newsletter and twitter call out at the end of the post */
   text-align: center;
@@ -351,8 +351,8 @@ pre {
   .post-list > li {
     margin-bottom: 30px; }
 
-/* Commenting out so index page looks better.
-
+/* Commenting out so index page looks better. */
+/*
 .post-meta {
   font-size: 14px;
   color: #828282; }
