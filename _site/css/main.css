@@ -457,6 +457,14 @@ pre {
   /* my attempt not to use the center tag all the time */
   text-align: center; }
 
+.hello {
+  /*the welcome text on the home page*/
+  font-size: 36px;
+  line-height: 45px; }
+
+.brand-color {
+  color: #e8cb5d; }
+
 /**
  * Reset some basic elements
  */
@@ -483,7 +491,7 @@ body {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure, img,
 .highlight {
   margin-bottom: 30px; }
 
@@ -750,6 +758,8 @@ pre > code {
 .post-list > li {
   margin-bottom: 30px; }
 
+/* Commenting out so index page looks better.
+
 .post-meta {
   font-size: 14px;
   color: #828282; }
@@ -757,7 +767,7 @@ pre > code {
 .post-link {
   display: block;
   font-size: 24px; }
-
+*/
 /**
  * Posts
  */
