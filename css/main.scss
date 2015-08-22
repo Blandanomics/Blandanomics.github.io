@@ -46,7 +46,7 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-      //   "base",
+        "base",
         "layout",
         "syntax-highlighting"
 ;
@@ -288,7 +288,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #333;
   padding: 30px 0; }
 
 .footer-heading {

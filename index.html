@@ -2,21 +2,20 @@
 layout: default
 ---
 
-<div class="home">
-<div class="hello center">Hello there! <span class="brand-color">¶</span> I'm Sean, the Editor-in-Chief of Behance's 99U where we work tirelessly to empower the creative world. <span class="brand-color">¶</span> <a href="/about">There's more of course.</a></p>
+<div class="home center">
+
+<div class="hello">Hello there! <span class="brand-color">¶</span> I'm Sean, the Editor-in-Chief of Behance's 99U where we work tirelessly to empower the creative world. <span class="brand-color">¶</span> <a href="/about">There's more of course.</a></p>
 </div>
 
-<img class="center" src="/images/blanda_bw.jpg" alt="Sean Blanda at a podium at the 99U Conference" width="740" height="492">
+<img src="/images/blanda_bw.jpg" alt="Sean Blanda at a podium at the 99U Conference" width="740" height="492">
 
-  <h1 class="center page-heading">Articles:</h1>
-  <ul class="post-list">
+<p>—</p>
+
+  <h1 class="page-heading">Blog posts:</h1>
+  <ul class="post-list white">
     {% for post in site.posts %}
-      <li>
-        <h2><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> — <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      <li><p>{{ post.date | date: "%b %-d, %Y" }} — <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</p></a>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

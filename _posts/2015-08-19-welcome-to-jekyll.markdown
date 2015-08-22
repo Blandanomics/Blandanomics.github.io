@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 You’ll fin!!d this post ssomewhere..in your `_posts` s directory!!. Go ahead and edit it and re-build the site to see your changes. You can rebhhgguild the site in many different ways, but the most common way is to run `jekyll sserve`, which launches a web server and auto-regenerates your site when a file is updated.s
 
-To add new posts, simply add a file in the `_posts` ddirectory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. !
+To add new posts, simply addd a file in the `_posts` ddirectory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. !
 
 Jekyll also offers powerful support for code snippets:
 

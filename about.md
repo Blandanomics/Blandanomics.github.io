@@ -1,11 +1,27 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Sean Blanda and I build editorial products that serve communities. Current focus: Running <a href="http://99u.com">99U</a>, the "think-tank" of Behance. 99U's yearly conference, quarterly magazine, and website that are all dedicated to empowering the creative community. There, I write mostly about the <a href="http://99u.com/articles/19565/a-troublemakers-manifesto-the-benefits-of-wandering">future of the career </a> and profile serial idea executors like <a href="http://99u.com/articles/50697/bevels-tristan-walker-the-best-ideas-are-brewed-out-of-authenticity">Tristan Walker</a> and <a href="http://99u.com/articles/30561/fred-seibert-never-compete-in-the-scrum">Fred Seibert</a>. My posts here are an attempt to chronicle what I'm learning along the way, with the occasional diversion or two.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I was born in South Jersey, lived in Philadelphia for seven years, and now reside in New York City. I care way too much about Philadelphia sports, drink way too much Coca-Cola, and eat way too much Mexican food. The Fourth of July is the best holiday, <A href="https://www.youtube.com/watch?v=DZPEUyiNcjA">Hotel Yorba by The White Stripes</a> is the best song ever made, the state of Colorado has the best flag.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<h3>Other Projects</h3>
+- I'm also one of the co-founders of <a href="http://technical.ly">Technical.ly</a>, a network of local tech news sites based out of Philadelphia.
+- I'm the founder of BarCamp NewsInnovation (BCNI) a journalism-focused unconference that takes place yearly in Philadelphia.
+- I wrote <a href="/hackingpr">Hacking PR</a>, a small ebook to help bootstrapped entrepreneurs pitch the media.
+
+<h3>Need a short bio for something? Hopefully this helps:</h3>
+
+Sean Blanda is the Editor-in-Chief and Director of Behance's 99U — a Webby-award winning website, yearly sold-out conference, best-selling book series, and quarterly magazine dedicated to empowering the creative community. He lives in New York City.
+
+<h3>Need some images for something? Hopefully this helps:</h3>
+
+<a href="/images/blanda_bw.jpg"><img src="/images/about_1.jpg" height="120" width="120"/></a>
+<a href="/images/blanda_down.jpg"><img src="/images/about_2.jpg" height="120" width="120"/></a>
+
+<h3>About this site</h3>
+
+This site was built in Jekyll. The headers are in Brandon Grotesque and the body text is in Jubilat. The accent color is e8cb5d.
