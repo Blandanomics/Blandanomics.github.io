@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! did this work?"
+title:  "Updating to Jekyll: An adventure in being a n00b"
 date:   2015-08-19 19:49:30
 categories: jekyll update
 ---
