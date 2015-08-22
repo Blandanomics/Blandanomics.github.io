@@ -9,3 +9,4 @@ twitter_username: seanblanda
 github_username:  blandanomics
 # Build settings
 markdown: kramdown
+image: "/images/"
