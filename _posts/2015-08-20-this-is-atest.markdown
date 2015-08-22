@@ -15,7 +15,7 @@ This is an example of _italic_ or *bold* and all of that stuff.
 - List item one
 - list item two
 
-A man who would letterspace lower case would steal sheep, Frederic Goudy liked to say. If this wisdom needs updating, [it is chiefly][#] to add that a woman who would letterspace lower case would steal sheep as well . A man who would letterspace lower case would steal sheep, Frederic Goudy liked to say. [If this wisdom needs updating][#], it is chiefly to add that a woman who would letterspace lower case would steal sheep as well .
+A man who would letterspace! lower case would steal sheep, Frederic Goudy liked to say. If this wisdom needs updating, [it is chiefly](http://iveneverbeenhere.com) to add that a woman who would letterspace lower case would steal sheep as well . A man who would letterspace lower case would steal sheep, Frederic Goudy liked to say. [If this wisdom needs updating](#), it is chiefly to add that a woman who would letterspace lower case would steal sheep as well .
 
 1. here
 2. here
