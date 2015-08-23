@@ -1,0 +1,46 @@
+
+body{
+	background-color: black;
+	font-family: Raleway, sans-serif;
+	
+}
+
+#container{
+	width: 900px;
+	margin: 0 auto;
+	color: #4d4d4d;
+padding: 30px;	/* change this and interview boxes will look weird */
+}
+
+.buynow{margin-top: -30px; margin-bottom: 20px;}
+.cover{float: left; padding-right: 20px;}
+
+.section{background: white; padding: 30px; margin-bottom: 50px;}
+
+h1{font-size: 60px; font-variant: 700;}
+h2{font-size: 40px; font-variant: 700;}
+h3{font-size: 30px; font-variant: 700;}
+h4{font-size: 20px; font-variant: 700;}
+h5{font-size: 10px; font-variant: 700;}
+
+
+li{padding-bottom: 10px;}
+.title{font-size: 12px;}
+.topic{padding-top: 10px;}
+
+.interview{ /* width of container is 970 px. (200 + 20 + 20 + 20 + 20) x 3 */
+	width: 180px;
+	background: #ddd;
+	padding: 30px;
+	margin: 20px;
+	float: left;
+	min-height: 100px;
+	
+} 
+
+.interview img{padding-bottom: 5px;}
+
+.quote{font-size: 24px; line-height: 30px;}
+
+p{font-size: 16px; line-height: 25px;}
+
