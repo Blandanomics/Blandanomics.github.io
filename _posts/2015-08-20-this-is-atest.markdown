@@ -1,55 +1,20 @@
 ---
 layout: post
-title:  "This is a test"
+title:  "The Millennial Curmudgeon Problem"
 date:   2015-08-20 19:49:30
-categories: news
+categories: essays
 ---
-I'm working on this site a bunch!!!
 
-Call me Ishmael. Some years ago -- never mind how long precisely -- having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen, and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet;
+Last year, a friend of mine who teaches high school mentioned in a Facebook status that all of his students kept using the phrase "on fleek" to describe anything and everything (though typically directed toward eyebrows).
 
-<img src="/images/test.gif">
+I scoffed to myself and thought about how dumb that sounded and carried on. A few months later, every thing was "on fleek". [Brands were on fleek](https://twitter.com/brandonfleek). [_The New York Times_ was on fleek](http://www.nytimes.com/interactive/2015/02/22/upshot/internet-language-quiz.html). The phrase had permeated the culture. What I had dismissed as irrelevant a few months before was now the coolest thing in the world (for a while, before cycling right back to uncool again). I had become my father, and "on fleek" was an updated version of some stupid early aughts phrases I threw around. It was off the hook, yo.
 
-and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off -- then, I account it high time to get to sea as soon as I can. This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; I quietly take to the ship. There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me. --opening paragraph
+Well, maybe not _my_ father. But _your_ father. Our fathers. Society's fathers. In other words: Somewhere along the line I became dismissive of the preferences of those younger than me. I swore I would never be that close-minded adult. But there I was. I had become Darth Vader.
 
-"Now, three to three, ye stand. Commend the murderous chalices! Bestow them, ye who are now made parties to this indissoluble league.... Drink, ye harpooneers! drink and swear, ye men that man the deathful whaleboat's bow -- Death to Moby Dick! God hunt us all, if we do not hunt Moby Dick to his death!" --Chapter 36 (The Quarter-Deck)
+<img src="/images/minecraft.png" width="780" height="500" alt="An old man in Minecraft. Just like me, you whippersnappers">
 
-Already several fatalities had attended his chase. But though similar disasters, however little bruited ashore, were by no means unusual in the fishery; yet, in most instances, such seemed the White Whale's infernal aforethought of ferocity, that every dismembering or death that he caused, was not wholly regarded as having been inflicted by an unintelligent agent.
+Like Social Security and pensions, ignoring the habits and preferences of people younger than ourselves is a luxury that will end with Generation X. Especially those of us in the media/culture/internet business. 20 years ago you could probably coast along and safely disregard trends and still have your job security in tact. No one is saying we late-20-somethings need to run around saying "on fleek", but each generation brings with it a larger digital audience. We ignore them at our peril.
 
-Judge, then, to what pitches of inflamed,
+Demographics say that we Millennials are having children later than our parents. This means we have a longer period of our lives where we associate with no children to tie us back to youth culture. So download Minecraft and play around. Subscribe to a few of the YouTube stars. Poke around YikYak. Walk in the footsteps of those younger than you, no matter no foreign their habits may seem.
 
-distracted fury the minds of his more desperate hunters were impelled, when amid the chips of chewed boats, and the sinking limbs of torn comrades, they swam out of the white curds of the whale's direful wrath into the serene, exasperating sunlight, that smiled on, as if at a birth or a bridal.
-His three boats stove around him, and oars and men both whirling in the eddies; one captain, seizing the line-knife from his broken prow, had dashed at the whale, as an Arkansas duellist at his foe, blindly seeking with a six inch blade to reach the fathom-deep life of the whale. That captain was Ahab. And then it was, that suddenly sweeping his sickle-shaped lower jaw beneath him, Moby Dick had reaped away Ahab's leg, as a mower a blade of grass in the field.... Small reason was there to doubt, then, that ever since that almost fatal encounter, Ahab had cherished a wild vindictiveness against the whale, all the more fell for that in his frantic morbidness he at last came to identify with him, not only all his bodily woes, but all his intellectual and spiritual exasperations. The White Whale swam before him as the monomaniac incarnation of all those malicious agencies which some deep men feel eating in them, [till](http://never.com) they are left living on with half a heart and half a lung. That intangible malignity which has been from the beginning; to whose dominion even the modern Christians ascribe one-half of the worlds; which the ancient Ophites of the east reverenced in their statue devil; -- Ahab did not fall down and worship it like them; but deliriously transferring its idea to [the abhorred white whale, he pitted himself](http://never.com), all mutilated, against it. All that most maddens and torments; all that stirs up the lees of things; all truth with malice in it; all that cracks the sinews and cakes the brain; all the subtle demonisms of life and thought; all evil, to crazy Ahab, where visibly personified, and made practically assailable in Moby Dick. He piled upon the whale's white hump the sum of all the general rage and hate felt by his whole race from Adam down; and then, as if his chest had been a mortar, he burst his hot heart's shell upon it. --Chapter 41 (Moby Dick)
-
-It was while gliding through these latter waters that one serene and moonlight night, when all the waves rolled by like scrolls of silver; and, by their soft, suffusing seethings, made what seemed a silvery silence, not a solitude: on such a silent night a silvery jet was seen far in advance of the white bubbles at the bow. Lit up by the moon, it looked celestial; seemed some plumed and glittering god uprising from the sea. --Chapter 51 (The Spirit-Spout)
-
-To add new posts, simply add a file in the directory that follows the convention  and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-This is an example of _italic_ or *bold* and all of that stuff.
-
-#is this a header?#
-
-- List item one
-- list item two
-
-A man who would letterspace! lower case would steal sheep, Frederic Goudy liked to say. If this wisdom needs updating, [it is chiefly](http://iveneverbeenhere.com) to add that a woman who would letterspace lower case would steal sheep as well . A man who would letterspace lower case would steal sheep, Frederic Goudy liked to say. [If this wisdom needs updating](#), it is chiefly to add that a woman who would letterspace lower case would steal sheep as well .
-
-1. here
-2. here
-3. there
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+After all, there's some older Baby Boomer who thinks the Internet is a giant waste of time and all of younger folks are just fools. Don't be that guy. You promised you wouldn't, remember?
