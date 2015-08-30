@@ -3,7 +3,7 @@ layout: page
 title: Speaking
 permalink: /speaking/
 ---
-<img src="/images/scionoriginal.jpg" width="760" height="500" alt="Sean Blanda speaking at Scion Original. Photo by twitter.com/antoinestlouis">
+<img src="/images/blanda_speaking.jpg" width="760" height="500" alt="Sean Blanda speaking at See Change. Photo by twitter.com/LouiseSandhaus">
 
 <h3>Upcoming Talks</h3>
 - Adobe Max: Los Angeles, October 4.
