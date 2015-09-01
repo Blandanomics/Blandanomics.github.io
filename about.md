@@ -29,10 +29,10 @@ I was born in South Jersey, lived in Philadelphia for seven years, and have resi
 Sean Blanda is the Editor-in-Chief and Director of Behance's 99U — a Webby-award winning website, yearly sold-out conference, best-selling book series, and quarterly magazine dedicated to empowering the creative community. He lives in New York City.
 
 <h3>Need some images for something? Hopefully this helps:</h3>
-
+<div class="aboutpics">
 <a href="/images/blanda_bw.jpg"><img style="margin-right: 30px;" src="/images/about_1.jpg" height="120" width="120"/></a>
 <a href="/images/blanda_down.jpg"><img src="/images/about_2.jpg" height="120" width="120"/></a>
-
+</div>
 <h3>About this site</h3>
 
 This site was built in Jekyll. The headers are in Brandon Grotesque and the body text is in Jubilat. The accent color is e8cb5d.

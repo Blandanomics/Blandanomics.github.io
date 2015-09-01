@@ -505,6 +505,10 @@ img {
   height: 100%;
   vertical-align: middle; }
 
+.aboutpics img {
+  height: 120px !important;
+  width: 120px !important; }
+
 /**
  * Figures
  */
