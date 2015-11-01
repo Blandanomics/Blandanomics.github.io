@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Sean Blanda</title>
+    <description>Sean Blanda is the Director and Editor-in-Chief of 99U. He lives in New York City.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Aug 2015 22:08:33 -0400</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2015 22:08:33 -0400</lastBuildDate>
+    <link>http://seanblanda.com/</link>
+    <atom:link href="http://seanblanda.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Nov 2015 14:19:23 -0500</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2015 14:19:23 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -27,8 +27,8 @@
 &lt;p&gt;After all, there’s some older Baby Boomer who thinks the Internet is a giant waste of time and all of younger folks are just fools. Don’t be that guy. You promised you wouldn’t, remember?&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 15:49:30 -0400</pubDate>
-        <link>http://yourdomain.com/essays/2015/08/20/The-Millennial-Curmudgeon-Problem.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/essays/2015/08/20/The-Millennial-Curmudgeon-Problem.html</guid>
+        <link>http://seanblanda.com/essays/2015/08/20/The-Millennial-Curmudgeon-Problem.html</link>
+        <guid isPermaLink="true">http://seanblanda.com/essays/2015/08/20/The-Millennial-Curmudgeon-Problem.html</guid>
         
         
         <category>essays</category>
