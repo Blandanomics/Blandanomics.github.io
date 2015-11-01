@@ -5,11 +5,7 @@ permalink: /speaking/
 ---
 <img src="/images/blanda_speaking.png" width="760" height="500" alt="Sean Blanda speaking at See Change. Photo by twitter.com/LouiseSandhaus">
 
-<h3>Upcoming Talks</h3>
-- Adobe Max: Los Angeles, October 4.
-- Cambridge, Mass., October 24
-
-I've spoken at [SXSW](http://austin2012.sched.org/speaker/seanblanda1), WordCamp Philly, 99U, Zoofest, [See Change](http://www.seechangeconference.org/) and at numerous businesses and colleges. Below are a few of my favorites:
+I've spoken at [SXSW](http://austin2012.sched.org/speaker/seanblanda1), Adobe MAX 99U, Zoofest, [See Change](http://www.seechangeconference.org/) and at numerous businesses and colleges. Below are a few of my favorites:
 
 <h3>TEDx Elgin Street: Rethinking the Career</h3>
 <iframe width="760" height="428" src="https://www.youtube.com/embed/lpOh4cTtvNE" frameborder="0" allowfullscreen></iframe>
@@ -34,3 +30,15 @@ I've spoken at [SXSW](http://austin2012.sched.org/speaker/seanblanda1), WordCamp
 - **Date:** Saturday, October 18, 2014
 - **Where:** New Work City, New York, New York
 - **Summary:** A roundup of some of the best habits I observed interviewing dozens of creatives for 99U. The audience was a collection of small business owners and one-person shops and this presentation was part of the conference portion of the program.
+<p class="center">—</p>
+<h3>Rethinking the Career</h3>
+- **Slides:** [Slideshare](http://www.slideshare.net/blanda1/adobe-max)
+- **Date:** Tuesday, October 06, 2015
+- **Where:** Los Angeles Convention Center, Los Angeles, California
+- **Summary:** An update of my talk in Ottawa on the skills and mindsets needed to survive the modern working world.
+<p class="center">—</p>
+<h3>3 Fears to Overcome for Young Entrepreneurs</h3>
+- **Slides:** slides TK
+- **Date:** Tuesday, October 24, 2015
+- **Where:** Harvard University, Cambridge, Massachusetts
+- **Summary:** [Sponsor.us](https://sponsr.us/) aims to provide young entrepreneurs with the tools needs to start their own businesses or non-profits by pairing them with mentors. I was graciously invited to be the keynote speaker for their yearly gathering at Harvard.
